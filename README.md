@@ -2,6 +2,13 @@
 执行顺序：
 
 ####
+sudo apt-get install git-core
+
+####
+git clone git@github.com:KimiGao/init.d.git
+cd init.d
+
+####
 sh install_git
 
 ####
