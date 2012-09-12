@@ -19,3 +19,7 @@ sh install_rvm
 
 ####
 sh install_rails
+
+####
+安装mysql
+sudo apt-get install mysql-server libmysqlclient-dev libmysql-ruby
